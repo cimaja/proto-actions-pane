@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/proto-actions-pane/static/css/main.6e1893aa.css",
+    "main.js": "/proto-actions-pane/static/js/main.f4e8c9c4.js",
+    "static/media/Jira.png": "/proto-actions-pane/static/media/Jira.8983cb7036211c8dcecb.png",
+    "static/media/SharePoint.png": "/proto-actions-pane/static/media/SharePoint.5c36b8152d853047c3a0.png",
+    "static/media/Microsoft Forms.png": "/proto-actions-pane/static/media/Microsoft Forms.d811caac57cf0091d161.png",
+    "index.html": "/proto-actions-pane/index.html",
+    "main.6e1893aa.css.map": "/proto-actions-pane/static/css/main.6e1893aa.css.map",
+    "main.f4e8c9c4.js.map": "/proto-actions-pane/static/js/main.f4e8c9c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e1893aa.css",
+    "static/js/main.f4e8c9c4.js"
+  ]
+}
