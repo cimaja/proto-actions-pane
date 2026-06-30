@@ -23,7 +23,7 @@ function App() {
 
   return (
     <BrandThemeProvider theme="light">
-      <PasswordOverlay correctPassword="actions2025">
+      <PasswordOverlay correctPassword="matwenger">
         <div className="app-container">
           <ActionsPane />
         </div>

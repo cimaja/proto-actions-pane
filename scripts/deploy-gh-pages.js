@@ -4,7 +4,7 @@ const fs = require('fs');
 
 // Configuration
 const username = 'cimaja';
-const repoName = 'actions-pane-V4';
+const repoName = 'proto-actions-pane';
 const buildFolder = path.resolve(__dirname, '../build');
 const tempFolder = path.resolve(__dirname, '../.gh-pages-temp');
 
